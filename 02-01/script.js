@@ -1,0 +1,2 @@
+alert("はじめまして。");
+alert("JavaScriptです。");
