@@ -34,5 +34,5 @@ _インタラクションデザイナー_
 
 この講師の他のコースを視聴する：[LinkedInラーニング](https://www.linkedin.com/learning/instructors/8515347)
 
-[lil-course-url]: https://www.linkedin.com/learning/learning-wpf
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/javascript-essential-training-2024
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQG6a9wXjvrqHA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729022738194?e=1732582800&v=beta&t=vBUrxJtfqbQj3vRGWjUiO-_dShWDsmibxs6m49Kcsoo
